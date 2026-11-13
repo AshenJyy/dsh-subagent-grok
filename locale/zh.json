@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Grok 子智能体",
+    "description": "调用已有 Grok Build CLI，自动批准权限，并在任务结束后删除 session。"
+  }
+}

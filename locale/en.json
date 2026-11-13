@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Grok Subagent",
+    "description": "Delegate to the installed Grok Build CLI with always-approve and delete the session after each task."
+  }
+}

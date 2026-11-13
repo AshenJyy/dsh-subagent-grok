@@ -1,0 +1,18 @@
+dsh-subagent-grok
+
+Plugin registration and run ownership follow @deepseek-ai/dsh-subagent-codex
+from https://github.com/deepseek-ai/deepseek-harness
+(source package version 0.2.2-rc.3).
+Copyright (c) 2026 DeepSeek. MIT License; see LICENSE.
+
+The Grok ACP adapter and cleanup integration are specific to this package.
+Grok Build itself is not included, downloaded, installed or version-probed.
+
+Protocol references:
+https://github.com/deepseek-ai/deepseek-harness/tree/master/packages/subagent/subagent-codex
+https://github.com/xai-org/grok-build/blob/main/crates/codegen/xai-grok-shell/src/agent/mvp_agent/session_setup.rs
+https://github.com/xai-org/grok-build/blob/main/crates/codegen/xai-grok-shell/src/extensions/session_admin.rs
+https://github.com/xai-org/grok-build/blob/main/crates/codegen/xai-grok-shell/src/extensions/notification.rs
+
+Authored and packaged without tests at the user's explicit request.
+
